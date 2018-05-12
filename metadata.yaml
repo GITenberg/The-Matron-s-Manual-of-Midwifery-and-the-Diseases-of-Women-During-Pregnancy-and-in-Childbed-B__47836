@@ -1,10 +1,16 @@
 _repo: The-Matron-s-Manual-of-Midwifery-and-the-Diseases-of-Women-During-Pregnancy-and-in-Childbed-B__47836
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47836-h/images/cover.jpg
 creator:
   author:
     agent_name: Hollick, Frederick
     gutenberg_agent_id: '44492'
     url: http://www.gutenberg.org/2009/agents/44492
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47836#The-Matron-s-Manual-of-Midwifery-and-the-Diseases-of-Women-During-Pregnancy-and-in-Childbed-B_
 gutenberg_issued: '2015-01-01'
 gutenberg_type: Text
 identifiers:
