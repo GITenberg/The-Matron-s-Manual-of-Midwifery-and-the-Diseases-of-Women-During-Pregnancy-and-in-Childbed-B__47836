@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Matron''s Manual of Midwifery, and the Diseases of Women During Pregnancy
   and in Childbed
 
